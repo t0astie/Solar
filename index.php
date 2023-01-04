@@ -77,9 +77,7 @@
             <div>
                 <hi>Display the solar information</hi>
 
-                <?php
-                    print "PHP is fun!";
-                ?>
+                <h1><?php echo "This message is from server side." ?></h1>
 
             </div>
 
